@@ -1,4 +1,10 @@
 # ISZ-NEX-Dumps
+
+## Current Status:
+- USA Sits at 3 Dumpers.
+- EUR Sits at 4 Dumpers (and the most Dumps).
+- JPN Sits at 1 Dumpers (and the least Dumps).
+
 ## THE COMMUNITY NEEDS YOU!
 - **I know most of you don't care, don't have a Hacked 3DS, etc. However the Servers that keep Ice Station Z up are closing within the next <ins>12 - 24 hours</ins>!**
 - **And I need your help to preserve the game's online functionality, that made it unique, from Chatting, to raiding the Cave from Pocky.**
