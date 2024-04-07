@@ -1,8 +1,11 @@
 # ISZ-NEX-Dumps
 ## THE COMMUNITY NEEDS YOU!
 **I know most of you don't care, don't have a Hacked 3DS, etc. However the Servers that keep Ice Station Z up are closing within the next __12 hours__!**
+
 **And I need your help to preserve the game's online functionality, that made it unique, from Chatting, to raiding the Cave from Pocky.**
+
 **Me and another individual as far as I know, are the only people attempting to make NEX Dumps, I have only 4 Dumps as of now (each about 24kb each).**
+
 **And while we aren't the best community, or even a community now, we need your help!**
 
 **__1.__ If you have a jailbroken 3DS Console, and want to help, you need to Download this [HokakuCTR.3gx](https://github.com/PretendoNetwork/HokakuCTR/releases/tag/v1.0.3) plugin from GitHub.**
