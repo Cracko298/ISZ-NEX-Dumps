@@ -1,6 +1,6 @@
 # ISZ-NEX-Dumps
 ## THE COMMUNITY NEEDS YOU!
-- **I know most of you don't care, don't have a Hacked 3DS, etc. However the Servers that keep Ice Station Z up are closing within the next <ins>12 hours</ins>!**
+- **I know most of you don't care, don't have a Hacked 3DS, etc. However the Servers that keep Ice Station Z up are closing within the next <ins>12 - 24 hours</ins>!**
 - **And I need your help to preserve the game's online functionality, that made it unique, from Chatting, to raiding the Cave from Pocky.**
 - **Me and another individual as far as I know, are the only people attempting to make NEX Dumps, I have only 4 Dumps as of now (each about 24kb each).**
 - **And while we aren't the best community, or even a community now, we need your help!**
