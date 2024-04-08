@@ -1,8 +1,8 @@
 # ISZ-NEX-Dumps
 
 ## Current Status:
-- USA Sits at 4 Dumpers.
-- EUR Sits at 4 Dumpers (and the most Dumps).
+- USA Sits at 5 Dumpers (and thr most dumps).
+- EUR Sits at 4 Dumpers.
 - JPN Sits at 1 Dumpers (and the least Dumps).
 
 ## THE COMMUNITY NEEDS YOU!
